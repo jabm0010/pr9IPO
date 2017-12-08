@@ -1,4 +1,4 @@
-16
+18
 Español
 Seleccione un idioma
 Siguiente
@@ -15,7 +15,9 @@ Introduzca los parámetros
 Insertar
 Inserción realizada de forma correcta
 Eliminar
-16
+Se ha eliminado de forma correcta
+El portátil seleccionado ya ha sido eliminado
+18
 English
 Select a language
 Next
@@ -32,3 +34,5 @@ Introduce the parameters
 Add
 The addition was executed correctly
 Delete
+The delete was executed correctly
+The selected laptop has already been deleted

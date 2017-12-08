@@ -93,6 +93,7 @@ public class opcionConsultar extends javax.swing.JFrame {
     
     private void generarFilas(){
                 DefaultTableModel model=(DefaultTableModel) jTable1.getModel();
+
                 for(int i=0;i<gestorPortatiles.r.portatiles.size();i++){
                     model.addRow(new Object []{gestorPortatiles.r.portatiles.get(i).getMarca(),
                     gestorPortatiles.r.portatiles.get(i).getModelo(),
