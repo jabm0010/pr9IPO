@@ -1,0 +1,34 @@
+16
+Español
+Seleccione un idioma
+Siguiente
+Insertar portátil
+Eliminar portátil
+Modificar portátil
+Consultar portátil
+Atrás
+Marca
+Modelo
+Almacenamiento
+Procesador
+Introduzca los parámetros
+Insertar
+Inserción realizada de forma correcta
+Eliminar
+16
+English
+Select a language
+Next
+Add laptop
+Eliminate laptop
+Modify laptop
+View laptop
+Back
+Brand
+Model
+Size
+Processor
+Introduce the parameters
+Add
+The addition was executed correctly
+Delete
